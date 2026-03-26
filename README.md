@@ -1,4 +1,4 @@
-# 🚀 AlphaTerminal: Motor de Alocação Quantitativa
+# 🚀 QuantAport: Motor de Alocação Quantitativa
 
 O **AlphaTerminal** é uma ferramenta profissional de gestão de portfólio e rebalanceamento de carteiras. Construído sob os pilares da teoria moderna de portfólios (Fronteira Eficiente de Markowitz), o sistema auxilia investidores a tomarem decisões de aporte mensal baseadas em eficiência estatística (Risco vs. Retorno), eliminando o viés emocional do mercado.
 
